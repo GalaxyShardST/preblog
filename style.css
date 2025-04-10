@@ -1,0 +1,37 @@
+body {
+    font-size:1rem;
+    margin:0;
+}
+
+header {
+    padding:10px 5px;
+    background-color:#502030;
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header h1 {
+    font-weight:200;
+    font-size:2.5rem;
+    line-height:1;
+}
+header h2 {
+    font-weight:normal;
+    font-size:1.1rem;
+    line-height:1;
+}
+#title {
+    margin:30px auto;
+    font-variant:small-caps;
+}
+#post-header {
+    margin:30px auto;
+}
+
+.contain {
+    max-width:800px;
+    margin:0 auto;
+}
+
+.text-center {
+    text-align:center;
+}
