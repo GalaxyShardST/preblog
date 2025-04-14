@@ -19,13 +19,6 @@ header h2 {
     font-size:1.1rem;
     line-height:1;
 }
-#title {
-    margin:30px auto;
-    font-variant:small-caps;
-}
-#post-header {
-    margin:30px auto;
-}
 
 .contain {
     max-width:800px;
@@ -34,4 +27,23 @@ header h2 {
 
 .text-center {
     text-align:center;
+}
+.title {
+    margin:30px auto;
+    font-variant:small-caps;
+}
+
+#references {
+    list-style-type: none;
+    padding-left:0;
+}
+#references > li:before {
+    content:"[" attr(data-index) "]";
+    display:inline-block;
+    width:0.25in;
+}
+#references > li {
+    text-indent:-0.25in;
+    padding-left:0.5in;
+    margin:1rem 0;
 }
