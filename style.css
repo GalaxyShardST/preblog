@@ -20,6 +20,24 @@ header h2 {
     line-height:1;
 }
 
+main {
+    line-height:1.5;
+}
+
+footer {
+    padding:10px 5px;
+    background-color:#502030;
+    color:white;
+    text-align:center;
+}
+footer a {
+    color:#80c0ff;
+    font-weight:300;
+    font-style:italic;
+}
+
+
+
 .contain {
     max-width:800px;
     margin:0 auto;
@@ -46,4 +64,9 @@ header h2 {
     text-indent:-0.25in;
     padding-left:0.5in;
     margin:1rem 0;
+}
+
+.ref {
+    vertical-align:super;
+    font-size:smaller;
 }
