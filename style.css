@@ -39,6 +39,20 @@ footer a {
     font-style:italic;
 }
 
+.image-holder {
+    margin:30px auto;
+    text-align:center;
+    font-style:italic;
+}
+img {
+    display:block;
+    margin:0 auto;
+    border-radius:5px;
+    border:1px solid black;
+    max-width:400px;
+    width:90%;
+}
+
 
 
 .contain {
