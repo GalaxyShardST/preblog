@@ -54,6 +54,7 @@ footer a {
 #references {
     list-style-type: none;
     padding-left:0;
+    margin:30px 0;
 }
 #references > li:before {
     content:"[" attr(data-index) "]";
