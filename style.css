@@ -3,11 +3,28 @@ body {
     margin:0;
 }
 
+@media(prefers-color-scheme: dark) {
+    body {
+        background-color:#101010;
+        color:#ffffff;
+    }
+}
+.dark-mode body {
+    background-color:#101010;
+    color:#ffffff;
+}
+.dark-mode a:visited {
+    color:#807bff;
+}
+
 header {
-    padding:10px 5px;
+    padding:10px 50px 10px 5px;
     background-color:#502030;
     color:white;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    /* Bounds theme-switcher to the header's bounding box */
+    position:relative;
 }
 header h1 {
     font-weight:200;
@@ -18,6 +35,19 @@ header h2 {
     font-weight:normal;
     font-size:1.1rem;
     line-height:1;
+}
+
+#theme-switcher {
+    position:absolute;
+    top:10px;
+    right:10px;
+    bottom:10px;
+    border:1px solid black;
+    background-color:white;
+    color:black;
+    width:40px;
+    border-radius:4px;
+    font-size:30px;
 }
 
 main {
@@ -35,7 +65,6 @@ footer {
 }
 footer a {
     color:#80c0ff;
-    font-weight:300;
     font-style:italic;
 }
 
