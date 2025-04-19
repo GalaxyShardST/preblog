@@ -99,17 +99,17 @@ img {
     font-variant:small-caps;
 }
 
-#references {
+#references, #footnotes {
     list-style-type: none;
     padding-left:0;
     margin:30px 0;
 }
-#references > li:before {
+#references > li:before, #footnotes > li:before {
     content:"[" attr(data-index) "]";
     display:inline-block;
     width:0.25in;
 }
-#references > li {
+#references > li, #footnotes > li {
     text-indent:-0.25in;
     padding-left:0.5in;
     margin:1rem 0;
