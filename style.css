@@ -7,6 +7,9 @@ body {
     background-color:#101010;
     color:#ffffff;
 }
+.dark-mode a {
+    color:#80c0ff;
+}
 .dark-mode a:visited {
     color:#807bff;
 }
@@ -44,8 +47,10 @@ header h2 {
 
     border:1px solid black;
     border-radius:4px;
-
-    font-size:30px;
+}
+#theme-switcher > img {
+    width:100%;
+    height:100%;
 }
 
 main {
@@ -73,7 +78,7 @@ footer a {
     text-align:center;
     font-style:italic;
 }
-img {
+main img {
     display:block;
     margin:0 auto;
     width:90%;
