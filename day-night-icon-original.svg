@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128mm"
+   height="128mm"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   sodipodi:docname="day-night-icon-original.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.71081544"
+     inkscape:cx="277.14648"
+     inkscape:cy="208.21157"
+     inkscape:window-width="1285"
+     inkscape:window-height="825"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-size:127.715px;font-family:Doremi;-inkscape-font-specification:Doremi;stroke-width:0.374753"
+       d="m 119.9377,64.124757 q 0,23.198232 -16.4009,39.536773 -16.400896,16.33854 -39.599128,16.33854 -23.260593,0 -39.599132,-16.33854 Q 8,87.322989 8,64.124757 8,40.864165 24.33854,24.463264 40.677079,8.0000032 63.937672,8.0000032 q 23.198232,0 39.599128,16.4632608 16.4009,16.400901 16.4009,39.661493 z M 63.937672,111.58136 q 19.706025,0 33.612491,-13.844111 13.968827,-13.906467 13.968827,-33.612492 0,-19.768385 -13.968827,-33.737213 Q 83.643697,16.418716 63.937672,16.418716 Z"
+       id="text1"
+       aria-label="🌓︎" />
+  </g>
+</svg>
