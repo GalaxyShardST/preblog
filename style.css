@@ -112,6 +112,8 @@ main img {
     list-style-type: none;
     padding-left:0;
     margin:30px 0;
+
+    word-break:break-all;
 }
 #references > li:before, #footnotes > li:before {
     content:"[" attr(data-index) "]";
