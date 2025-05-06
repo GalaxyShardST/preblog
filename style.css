@@ -107,6 +107,9 @@ main img {
     margin:30px auto;
     font-variant:small-caps;
 }
+h3.title {
+    margin:20px auto;
+}
 
 #references, #footnotes {
     list-style-type: none;
