@@ -38,6 +38,10 @@ header h2 {
     font-size:1.1rem;
     line-height:1;
 }
+header a {
+    color:white !important;
+    text-decoration:none;
+}
 
 #theme-switcher {
     position:absolute;
